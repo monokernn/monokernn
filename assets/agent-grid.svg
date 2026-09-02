@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Monokern autonomous agent systems">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080a09"/>
+      <stop offset=".55" stop-color="#101512"/>
+      <stop offset="1" stop-color="#0a1114"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#ff5c3b"/>
+      <stop offset=".5" stop-color="#ffaf45"/>
+      <stop offset="1" stop-color="#a8e063"/>
+    </linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#6d8879" stroke-opacity=".08"/>
+    </pattern>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <path id="r1" d="M700 180 C760 90 820 80 890 92"/>
+    <path id="r2" d="M700 180 C790 165 865 160 975 180"/>
+    <path id="r3" d="M700 180 C760 270 830 280 900 270"/>
+    <path id="r4" d="M700 180 C640 85 585 76 535 98"/>
+    <path id="r5" d="M700 180 C635 270 575 285 520 265"/>
+  </defs>
+
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#bg)" stroke="#334039" stroke-width="2"/>
+  <rect x="1" y="1" width="1198" height="358" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="7" height="358" rx="4" fill="#ff5c3b"/>
+  <rect x="8" y="1" width="1190" height="4" fill="url(#accent)"/>
+
+  <g font-family="'Courier New',monospace">
+    <text x="42" y="42" fill="#779487" font-size="12" letter-spacing="3">PUBLIC BUILD LOG // ONLINE</text>
+    <circle cx="342" cy="37" r="5" fill="#a8e063" filter="url(#glow)">
+      <animate attributeName="opacity" values=".25;1;.25" dur="1.4s" repeatCount="indefinite"/>
+    </circle>
+
+    <text x="42" y="105" fill="#f5f2e9" font-family="Arial,sans-serif" font-weight="800" font-size="54" letter-spacing="-2">MONOKERN</text>
+    <text x="44" y="139" fill="#ff6946" font-weight="700" font-size="15" letter-spacing="2">AUTONOMOUS AGENT SYSTEMS</text>
+    <text x="44" y="165" fill="#91a69b" font-size="13">building public interfaces for machines that keep working</text>
+
+    <g transform="translate(42 205)">
+      <rect width="405" height="104" rx="7" fill="#0b0e0c" stroke="#35423b"/>
+      <rect x="0" y="0" width="405" height="25" rx="7" fill="#151a17"/>
+      <circle cx="16" cy="12" r="4" fill="#ff5c3b"/><circle cx="30" cy="12" r="4" fill="#ffaf45"/><circle cx="44" cy="12" r="4" fill="#a8e063"/>
+      <text x="62" y="16" fill="#718579" font-size="9">monokern@agent-floor:~</text>
+      <text x="16" y="48" fill="#52d8cf" font-size="11">&gt; GROK BOT ORCHESTRATION</text>
+      <text x="16" y="69" fill="#a8e063" font-size="11">&gt; REAL-TIME SYSTEM INTERFACES</text>
+      <text x="16" y="90" fill="#ffaf45" font-size="11">&gt; BACKEND AUTOMATION</text>
+      <rect x="281" y="82" width="8" height="12" fill="#ff6946">
+        <animate attributeName="opacity" values="1;0;1" dur=".8s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <g fill="none" stroke-width="2" stroke-dasharray="7 7" opacity=".55">
+    <use href="#r1" stroke="#a8e063"/><use href="#r2" stroke="#52d8cf"/><use href="#r3" stroke="#a780ff"/>
+    <use href="#r4" stroke="#ffaf45"/><use href="#r5" stroke="#5aa4ff"/>
+  </g>
+
+  <g filter="url(#glow)">
+    <circle r="5" fill="#a8e063"><animateMotion dur="2.1s" repeatCount="indefinite"><mpath href="#r1"/></animateMotion></circle>
+    <circle r="5" fill="#52d8cf"><animateMotion dur="1.7s" begin="-.8s" repeatCount="indefinite"><mpath href="#r2"/></animateMotion></circle>
+    <circle r="5" fill="#a780ff"><animateMotion dur="2.4s" begin="-1.2s" repeatCount="indefinite"><mpath href="#r3"/></animateMotion></circle>
+    <circle r="5" fill="#ffaf45"><animateMotion dur="1.9s" begin="-.4s" repeatCount="indefinite"><mpath href="#r4"/></animateMotion></circle>
+    <circle r="5" fill="#5aa4ff"><animateMotion dur="2.2s" begin="-1.5s" repeatCount="indefinite"><mpath href="#r5"/></animateMotion></circle>
+  </g>
+
+  <g transform="translate(700 180)">
+    <circle r="52" fill="#14110f" stroke="#ff6946" stroke-width="3"/>
+    <circle r="39" fill="#ff6946"/>
+    <rect x="-14" y="-13" width="8" height="25" rx="4" fill="#090b0a" transform="rotate(-10)"/>
+    <rect x="7" y="-13" width="8" height="25" rx="4" fill="#090b0a" transform="rotate(10)"/>
+    <circle r="48" fill="none" stroke="#ffaf45" stroke-width="2" stroke-dasharray="8 9">
+      <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="12s" repeatCount="indefinite"/>
+    </circle>
+    <text y="75" text-anchor="middle" fill="#ff6946" font-family="'Courier New',monospace" font-size="12" font-weight="700">HELM // ROUTING</text>
+  </g>
+
+  <g font-family="'Courier New',monospace" font-size="10" font-weight="700" text-anchor="middle">
+    <g transform="translate(890 92)"><circle r="28" fill="#131a11" stroke="#a8e063" stroke-width="2"/><circle r="18" fill="#a8e063"/><rect x="-7" y="-7" width="4" height="13" rx="2" fill="#080a09"/><rect x="3" y="-7" width="4" height="13" rx="2" fill="#080a09"/><text y="44" fill="#a8e063">SCOUT</text></g>
+    <g transform="translate(975 180)"><circle r="28" fill="#10191a" stroke="#52d8cf" stroke-width="2"/><circle r="18" fill="#52d8cf"/><rect x="-7" y="-7" width="4" height="13" rx="2" fill="#080a09"/><rect x="3" y="-7" width="4" height="13" rx="2" fill="#080a09"/><text y="44" fill="#52d8cf">ARCHIVE</text></g>
+    <g transform="translate(900 270)"><circle r="28" fill="#18121e" stroke="#a780ff" stroke-width="2"/><circle r="18" fill="#a780ff"/><rect x="-7" y="-7" width="4" height="13" rx="2" fill="#080a09"/><rect x="3" y="-7" width="4" height="13" rx="2" fill="#080a09"/><text y="44" fill="#a780ff">SENTINEL</text></g>
+    <g transform="translate(535 98)"><circle r="28" fill="#1c1710" stroke="#ffaf45" stroke-width="2"/><circle r="18" fill="#ffaf45"/><rect x="-7" y="-7" width="4" height="13" rx="2" fill="#080a09"/><rect x="3" y="-7" width="4" height="13" rx="2" fill="#080a09"/><text y="44" fill="#ffaf45">FORGE</text></g>
+    <g transform="translate(520 265)"><circle r="28" fill="#101724" stroke="#5aa4ff" stroke-width="2"/><circle r="18" fill="#5aa4ff"/><rect x="-7" y="-7" width="4" height="13" rx="2" fill="#080a09"/><rect x="3" y="-7" width="4" height="13" rx="2" fill="#080a09"/><text y="44" fill="#5aa4ff">RELAY</text></g>
+  </g>
+
+  <g transform="translate(1050 43)" font-family="'Courier New',monospace">
+    <text fill="#718579" font-size="9">SYSTEM STATUS</text>
+    <text y="22" fill="#a8e063" font-size="11">06 / 06 ONLINE</text>
+  </g>
+
+  <rect x="0" y="-25" width="1200" height="22" fill="#52d8cf" opacity=".055">
+    <animate attributeName="y" values="-25;365" dur="4.8s" repeatCount="indefinite"/>
+  </rect>
+</svg>
