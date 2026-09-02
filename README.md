@@ -11,16 +11,16 @@
 <br />
 
 <a href="https://x.com/monokern">
-  <img src="https://img.shields.io/badge/X-%40monokern-000000?style=for-the-badge&logo=x&logoColor=white" alt="X profile" />
+  <img src="https://img.shields.io/badge/X-%40MONOKERN-FF6946?style=for-the-badge&logo=x&logoColor=white&labelColor=30363D" alt="X profile" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=monokernn&color=ff6946&style=for-the-badge&label=PROFILE+PACKETS" alt="Profile views" />
+<img src="https://img.shields.io/badge/PROFILE-ONLINE-FF6946?style=for-the-badge&labelColor=30363D" alt="Profile status" />
 
 <p align="center">
   <a href="https://grok-architecture.com">
-    <img src="https://img.shields.io/badge/AGENT%20SYSTEMS-GROK%20BOT%20ARCHITECTURE-FF6946?style=for-the-badge&labelColor=111411" alt="Grok Bot Architecture" />
+    <img src="https://img.shields.io/badge/AGENT%20SYSTEMS-GROK%20BOT%20ARCHITECTURE-FF6946?style=for-the-badge&labelColor=30363D" alt="Grok Bot Architecture" />
   </a>
   <a href="https://mason-harrison.vercel.app/">
-    <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-PORTFOLIO-52D8CF?style=for-the-badge&labelColor=111411" alt="Creative development portfolio" />
+    <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-PORTFOLIO-FF6946?style=for-the-badge&labelColor=30363D" alt="Creative development portfolio" />
   </a>
 </p>
 
