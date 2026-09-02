@@ -11,16 +11,16 @@
 <br />
 
 <a href="https://x.com/monokern">
-  <img src="https://img.shields.io/badge/X-%40MONOKERN-FF6946?style=for-the-badge&logo=x&logoColor=white&labelColor=30363D" alt="X profile" />
+  <img src="https://img.shields.io/badge/X-%40MONOKERN-B96A52?style=for-the-badge&logo=x&logoColor=white&labelColor=30363D" alt="X profile" />
 </a>
-<img src="https://img.shields.io/badge/PROFILE-ONLINE-FF6946?style=for-the-badge&labelColor=30363D" alt="Profile status" />
+<img src="https://img.shields.io/badge/PROFILE-ONLINE-B96A52?style=for-the-badge&labelColor=30363D" alt="Profile status" />
 
 <p align="center">
   <a href="https://grok-architecture.com">
     <img src="./assets/agent-systems-button.svg" width="380" alt="Agent Systems: Grok Bot Architecture" />
   </a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://mason-harrison.vercel.app/">
+  <a href="https://monokern.design">
     <img src="./assets/web-development-button.svg" width="320" alt="Web Development: Portfolio" />
   </a>
 </p>
@@ -52,7 +52,7 @@ I build autonomous systems and complete web experiences. I take websites from th
 
 Most of my technical projects combine a working backend with a public interface, so people can watch the system operate instead of reading another abstract AI demo.
 
-[Explore my creative development portfolio](https://mason-harrison.vercel.app/)
+[Explore my creative development portfolio](https://monokern.design)
 
 ---
 
@@ -98,11 +98,11 @@ Python tooling that connects prediction-market signals with a Telegram delivery 
 <tr>
 <td width="100%" valign="top" colspan="2">
 
-### [Creative Development Portfolio](https://mason-harrison.vercel.app/)
+### [Creative Development Portfolio](https://monokern.design)
 
 Selected websites built from concept to launch. Brand direction, interface design, frontend development and motion combined into complete digital experiences.
 
-[Explore selected work](https://mason-harrison.vercel.app/portfolio)
+[Explore selected work](https://monokern.design/portfolio)
 
 </td>
 </tr>
@@ -167,8 +167,8 @@ Selected websites built from concept to launch. Brand direction, interface desig
 <a href="https://x.com/monokern">
   <img src="https://img.shields.io/badge/FOLLOW%20THE%20BUILD-%40MONOKERN-FF6946?style=for-the-badge&labelColor=111411" alt="Follow the build on X" />
 </a>
-<a href="https://mason-harrison.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW%20THE%20PORTFOLIO-52D8CF?style=for-the-badge&labelColor=111411" alt="View portfolio" />
+<a href="https://monokern.design">
+  <img src="https://img.shields.io/badge/VIEW%20THE%20PORTFOLIO-B96A52?style=for-the-badge&labelColor=30363D" alt="View portfolio" />
 </a>
 
 </div>
