@@ -15,25 +15,14 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=monokernn&color=ff6946&style=for-the-badge&label=PROFILE+PACKETS" alt="Profile views" />
 
-<br /><br />
-
-<sub><b>AGENT SYSTEMS</b></sub>
-
-<br />
-
-<a href="https://grok-architecture.com">
-  <img src="https://img.shields.io/badge/LIVE-GROK%20BOT%20ARCHITECTURE-FF6946?style=for-the-badge&labelColor=111411" alt="Grok Bot Architecture" />
-</a>
-
-<br /><br />
-
-<sub><b>WEB DEVELOPMENT</b></sub>
-
-<br />
-
-<a href="https://mason-harrison.vercel.app/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-DESIGN%20%2B%20CODE-52D8CF?style=for-the-badge&labelColor=111411" alt="Creative development portfolio" />
-</a>
+<p align="center">
+  <a href="https://grok-architecture.com">
+    <img src="https://img.shields.io/badge/AGENT%20SYSTEMS-GROK%20BOT%20ARCHITECTURE-FF6946?style=for-the-badge&labelColor=111411" alt="Grok Bot Architecture" />
+  </a>
+  <a href="https://mason-harrison.vercel.app/">
+    <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-PORTFOLIO-52D8CF?style=for-the-badge&labelColor=111411" alt="Creative development portfolio" />
+  </a>
+</p>
 
 </div>
 
