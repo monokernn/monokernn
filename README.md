@@ -5,7 +5,7 @@
 <br />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=2400&pause=850&color=FF6946&center=true&vCenter=true&width=850&lines=building+agent+companies+that+keep+working;turning+Grok+Bot+into+observable+systems;shipping+interfaces%2C+backends+and+automation;building+in+public" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=19&duration=2400&pause=850&color=FF6946&center=true&vCenter=true&width=850&lines=building+agent+companies+that+keep+working;designing+and+coding+websites+from+scratch;shipping+interfaces%2C+backends+and+automation;turning+ideas+into+polished+products" alt="Typing animation" />
 </a>
 
 <br />
@@ -15,6 +15,9 @@
 </a>
 <a href="https://grok-architecture.com">
   <img src="https://img.shields.io/badge/LIVE-GROK%20BOT%20ARCHITECTURE-FF6946?style=for-the-badge&labelColor=111411" alt="Grok Bot Architecture" />
+</a>
+<a href="https://mason-harrison.vercel.app/">
+  <img src="https://img.shields.io/badge/PORTFOLIO-DESIGN%20%2B%20CODE-52D8CF?style=for-the-badge&labelColor=111411" alt="Creative development portfolio" />
 </a>
 <img src="https://komarev.com/ghpvc/?username=monokernn&color=ff6946&style=for-the-badge&label=PROFILE+PACKETS" alt="Profile views" />
 
@@ -26,10 +29,12 @@
 
 ```javascript
 const monokern = {
-  role: "independent builder",
+  role: "independent builder and creative developer",
   focus: [
     "autonomous agent systems",
     "observable AI interfaces",
+    "creative web development",
+    "design and motion",
     "backend orchestration",
     "automation",
     "prediction market tooling"
@@ -39,13 +44,15 @@ const monokern = {
 };
 ```
 
-I build systems where AI agents can receive work, exchange context, challenge decisions and leave visible evidence behind.
+I build autonomous systems and complete web experiences. I take websites from the first visual concept to a polished live product through design, code and motion.
 
-Most of my projects combine a working backend with a public interface, so people can watch the system operate instead of reading another abstract AI demo.
+Most of my technical projects combine a working backend with a public interface, so people can watch the system operate instead of reading another abstract AI demo.
+
+[Explore my creative development portfolio](https://mason-harrison.vercel.app/)
 
 ---
 
-## 02 // CURRENT SYSTEMS
+## 02 // CURRENT WORK
 
 <table>
 <tr>
@@ -84,6 +91,17 @@ Python tooling that connects prediction-market signals with a Telegram delivery 
 
 </td>
 </tr>
+<tr>
+<td width="100%" valign="top" colspan="2">
+
+### [Creative Development Portfolio](https://mason-harrison.vercel.app/)
+
+Selected websites built from concept to launch. Brand direction, interface design, frontend development and motion combined into complete digital experiences.
+
+[Explore selected work](https://mason-harrison.vercel.app/portfolio)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -94,6 +112,8 @@ Python tooling that connects prediction-market signals with a Telegram delivery 
 | --- | --- |
 | **Agent orchestration** | roles, routing, handoffs, shared context and persistent workflows |
 | **Realtime interfaces** | live operations rooms, animated agent floors and synchronized dashboards |
+| **Creative development** | visual direction, responsive websites, interaction design and motion |
+| **Website delivery** | taking briefs from initial concept to a polished deployed product |
 | **Backend systems** | deterministic state engines, event streams, APIs and deployment architecture |
 | **Automation** | Telegram bots, publishing tools, monitoring and repeatable workflows |
 | **Market tooling** | prediction-market research, signal delivery and operational visualizations |
@@ -110,6 +130,8 @@ Python tooling that connects prediction-market signals with a Telegram delivery 
 <img src="https://img.shields.io/badge/Node.js-111411?style=for-the-badge&logo=node.js&logoColor=7BC74D" alt="Node.js" />
 <img src="https://img.shields.io/badge/HTML5-111411?style=for-the-badge&logo=html5&logoColor=FF6946" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS3-111411?style=for-the-badge&logo=css&logoColor=52D8CF" alt="CSS3" />
+<img src="https://img.shields.io/badge/Web%20Design-111411?style=for-the-badge&logoColor=white&labelColor=A780FF" alt="Web design" />
+<img src="https://img.shields.io/badge/Motion%20UI-111411?style=for-the-badge&logoColor=white&labelColor=52D8CF" alt="Motion UI" />
 <img src="https://img.shields.io/badge/Git-111411?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-111411?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 <img src="https://img.shields.io/badge/Vercel-111411?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
@@ -141,6 +163,8 @@ Python tooling that connects prediction-market signals with a Telegram delivery 
 <a href="https://x.com/monokern">
   <img src="https://img.shields.io/badge/FOLLOW%20THE%20BUILD-%40MONOKERN-FF6946?style=for-the-badge&labelColor=111411" alt="Follow the build on X" />
 </a>
+<a href="https://mason-harrison.vercel.app/">
+  <img src="https://img.shields.io/badge/VIEW%20THE%20PORTFOLIO-52D8CF?style=for-the-badge&labelColor=111411" alt="View portfolio" />
+</a>
 
 </div>
-
