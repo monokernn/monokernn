@@ -17,10 +17,11 @@
 
 <p align="center">
   <a href="https://grok-architecture.com">
-    <img src="https://img.shields.io/badge/AGENT%20SYSTEMS-GROK%20BOT%20ARCHITECTURE-FF6946?style=for-the-badge&labelColor=30363D" alt="Grok Bot Architecture" />
+    <img src="./assets/agent-systems-button.svg" width="380" alt="Agent Systems: Grok Bot Architecture" />
   </a>
+  &nbsp;&nbsp;&nbsp;
   <a href="https://mason-harrison.vercel.app/">
-    <img src="https://img.shields.io/badge/WEB%20DEVELOPMENT-PORTFOLIO-FF6946?style=for-the-badge&labelColor=30363D" alt="Creative development portfolio" />
+    <img src="./assets/web-development-button.svg" width="320" alt="Web Development: Portfolio" />
   </a>
 </p>
 
