@@ -1,8 +1,8 @@
 # Readme Atelier: edit this file, commit, and your profile rebuilds itself.
 # Themes: minimal · y2k · minecraft · terminal · pixel · garden
-# Docs: https://github.com/monokern/readme-atelier#config
+# Docs: https://github.com/monokernn/readme-atelier#config
 
-username: monokern
+username: monokernn
 theme: minimal
 tagline: AI, products & systems
 about:
@@ -16,7 +16,7 @@ stack:
   - css
 socials:
   x: monokern
-  github: monokern
+  github: monokernn
   website: monokern.design
 sections:
   - header
