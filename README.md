@@ -10,14 +10,14 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stats-dark.c63685dc.svg"/><img src="./atelier/stats.cacf2f66.svg" width="49%" alt="GitHub stats"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.7f8c7d4d.svg"/><img src="./atelier/languages.2a285bd1.svg" width="49%" alt="Top languages"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stats-dark.fdb5c01d.svg"/><img src="./atelier/stats.19c8d243.svg" width="49%" alt="GitHub stats"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.6cd6d4ff.svg"/><img src="./atelier/languages.3b03a4af.svg" width="49%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.145e7345.svg"/><img src="./atelier/activity.7e9f1680.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.a57e0ae3.svg"/><img src="./atelier/activity.1a69cd4e.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center">
-  <a href="https://github.com/monokernn/readme-atelier"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.42a25390.svg"/><img src="./atelier/repo-1.93e06256.svg" width="49%" alt="readme-atelier"/></picture></a>
+  <a href="https://github.com/monokernn/readme-atelier"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.31684b85.svg"/><img src="./atelier/repo-1.e9fce243.svg" width="49%" alt="readme-atelier"/></picture></a>
   <a href="https://github.com/monokernn/Grok&#95;Bot&#95;Architecture"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-2-dark.7ed99399.svg"/><img src="./atelier/repo-2.03f13dcf.svg" width="49%" alt="Grok&#95;Bot&#95;Architecture"/></picture></a>
   <a href="https://github.com/monokernn/markdown-to-X-article"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-3-dark.e2bbe9bc.svg"/><img src="./atelier/repo-3.8665439e.svg" width="49%" alt="markdown-to-X-article"/></picture></a>
   <a href="https://github.com/monokernn/Grok-Therf-Auto"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-4-dark.45b90ba8.svg"/><img src="./atelier/repo-4.daedbaba.svg" width="49%" alt="Grok-Therf-Auto"/></picture></a>
@@ -25,6 +25,6 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.7f78bc34.svg"/><img src="./atelier/stack.2b43256a.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.6b3bc01a.svg"/><img src="./atelier/footer.8e485b0c.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.b7be2d52.svg"/><img src="./atelier/footer.0db7be24.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end -->
