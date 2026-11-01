@@ -10,11 +10,11 @@
 </p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stats-dark.4f7431ea.svg"/><img src="./atelier/stats.37849518.svg" width="49%" alt="GitHub stats"/></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.b19931ac.svg"/><img src="./atelier/languages.5dddc5d4.svg" width="49%" alt="Top languages"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stats-dark.172f00c4.svg"/><img src="./atelier/stats.b6f8d436.svg" width="49%" alt="GitHub stats"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.ce860ab6.svg"/><img src="./atelier/languages.3f8e00f2.svg" width="49%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.06f2d0ba.svg"/><img src="./atelier/activity.ca7abd27.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.c1534a59.svg"/><img src="./atelier/activity.63dcd752.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center">
   <a href="https://github.com/monokernn/readme-atelier"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.e0741ed8.svg"/><img src="./atelier/repo-1.f71dcc4e.svg" width="49%" alt="readme-atelier"/></picture></a>
@@ -25,6 +25,6 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.7f78bc34.svg"/><img src="./atelier/stack.2b43256a.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.8d4b3748.svg"/><img src="./atelier/footer.cc2169f2.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.becc36da.svg"/><img src="./atelier/footer.1765224c.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end -->
