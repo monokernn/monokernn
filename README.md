@@ -14,7 +14,7 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.ce860ab6.svg"/><img src="./atelier/languages.3f8e00f2.svg" width="49%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.ba0858fc.svg"/><img src="./atelier/activity.9ea45e81.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.9974cce1.svg"/><img src="./atelier/activity.01c40b98.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center">
   <a href="https://github.com/monokernn/readme-atelier"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.142bf745.svg"/><img src="./atelier/repo-1.c15c652b.svg" width="49%" alt="readme-atelier"/></picture></a>
@@ -25,6 +25,6 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.7f78bc34.svg"/><img src="./atelier/stack.2b43256a.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.427720d5.svg"/><img src="./atelier/footer.d0dccc63.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.653b66f2.svg"/><img src="./atelier/footer.955738c4.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end -->
