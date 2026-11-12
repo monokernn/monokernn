@@ -14,17 +14,17 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.8d20f95b.svg"/><img src="./atelier/languages.ee933f23.svg" width="49%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.50281beb.svg"/><img src="./atelier/activity.edbed1d6.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.c7b62209.svg"/><img src="./atelier/activity.48a4cd04.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center">
   <a href="https://github.com/monokernn/readme-atelier"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.2640fc28.svg"/><img src="./atelier/repo-1.922ca476.svg" width="49%" alt="readme-atelier"/></picture></a>
   <a href="https://github.com/monokernn/markdown-to-X-article"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-2-dark.8cb1c438.svg"/><img src="./atelier/repo-2.86897172.svg" width="49%" alt="markdown-to-X-article"/></picture></a>
   <a href="https://github.com/monokernn/Grok-Therf-Auto"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-3-dark.f014ae88.svg"/><img src="./atelier/repo-3.67fbb3de.svg" width="49%" alt="Grok-Therf-Auto"/></picture></a>
-  <a href="https://github.com/monokernn/FABLE-5.2-UNPACKED"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-4-dark.97e94a44.svg"/><img src="./atelier/repo-4.f8c109fe.svg" width="49%" alt="FABLE-5.2-UNPACKED"/></picture></a>
+  <a href="https://github.com/monokernn/FABLE-5.2-UNPACKED"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-4-dark.a136a121.svg"/><img src="./atelier/repo-4.9c92a2ab.svg" width="49%" alt="FABLE-5.2-UNPACKED"/></picture></a>
 </p>
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.7f78bc34.svg"/><img src="./atelier/stack.2b43256a.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.76879d92.svg"/><img src="./atelier/footer.cc8a7064.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.ab71eb7a.svg"/><img src="./atelier/footer.ee3d786c.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end -->
