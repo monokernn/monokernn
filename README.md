@@ -14,7 +14,7 @@
   <picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/languages-dark.3db08c82.svg"/><img src="./atelier/languages.2c50c9c6.svg" width="49%" alt="Top languages"/></picture>
 </p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.53ac6e6d.svg"/><img src="./atelier/activity.00b5fdc0.svg" width="100%" alt="Contribution activity"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/activity-dark.af9e4828.svg"/><img src="./atelier/activity.adba5497.svg" width="100%" alt="Contribution activity"/></picture></p>
 
 <p align="center">
   <a href="https://github.com/monokernn/FABLE-5.2-UNPACKED"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/repo-1-dark.e65abfba.svg"/><img src="./atelier/repo-1.acdff1e8.svg" width="49%" alt="FABLE-5.2-UNPACKED"/></picture></a>
@@ -25,6 +25,6 @@
 
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/stack-dark.7f78bc34.svg"/><img src="./atelier/stack.2b43256a.svg" width="100%" alt="Tech stack"/></picture></p>
 
-<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.9289488a.svg"/><img src="./atelier/footer.8cb1473c.svg" width="100%" alt="Footer"/></picture></p>
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="./atelier/footer-dark.32015632.svg"/><img src="./atelier/footer.096f0684.svg" width="100%" alt="Footer"/></picture></p>
 
 <!-- readme-atelier:end -->
